@@ -15,11 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cowale/cowaleAiKit.git"
+    "url": "git+https://github.com/cowaleinc/cowaleAiKit.git"
   },
-  "homepage": "https://github.com/cowale/cowaleAiKit#readme",
+  "homepage": "https://github.com/cowaleinc/cowaleAiKit#readme",
   "bugs": {
-    "url": "https://github.com/cowale/cowaleAiKit/issues"
+    "url": "https://github.com/cowaleinc/cowaleAiKit/issues"
   },
   "keywords": [
     "ai",
